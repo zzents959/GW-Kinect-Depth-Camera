@@ -1,0 +1,5 @@
+C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\Samples\Native\DepthBasics-D2D\x64\Debug\DepthBasics-D2D.exe
+C:\Users\Caden\Desktop\DepthBasics-D2D\x64\Debug\DepthBasics-D2D.exe
+C:\Users\Caden\Desktop\Kinect-Depth-Camera\x64\Debug\DepthBasics-D2D.exe
+C:\Users\Caden\Desktop\Grain Weevil\Kinect-Depth-Camera\x64\Debug\DepthBasics-D2D.exe
+C:\Program Files\Kinect-Depth-Camera\x64\Debug\DepthBasics-D2D.exe

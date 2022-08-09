@@ -1,0 +1,2 @@
+C:\Users\Caden\Desktop\Grain Weevil\Kinect-Depth-Camera\x64\Release\DepthBasics-D2D.exe
+C:\Program Files\Kinect-Depth-Camera\x64\Release\DepthBasics-D2D.exe

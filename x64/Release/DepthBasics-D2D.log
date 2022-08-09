@@ -1,0 +1,7 @@
+﻿  DepthBasics.cpp
+  ImageRenderer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DepthBasics-D2D.vcxproj -> C:\Program Files\Kinect-Depth-Camera\x64\Release\DepthBasics-D2D.exe
